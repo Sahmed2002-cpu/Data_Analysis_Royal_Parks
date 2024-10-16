@@ -1,0 +1,27 @@
+# Visitor Behavior Analytics
+
+## Objective
+The objective of this project was to analyze visitor behavior and trends in The Royal Parks using data from visitor counters, feedback surveys, and event participation records. Insights were used to improve park services and visitor experiences.
+
+## Skills Used
+- Python: pandas, matplotlib, seaborn
+- SQL
+- Tableau for interactive dashboards
+
+## Dataset
+- Data from visitor counting sensors, ticket sales for park events, and visitor feedback surveys.
+
+## Methodology
+1. **Data Collection**: Gathered visitor count data from sensor networks and event participation data.
+2. **Data Cleaning**: Cleaned the data to handle duplicates, missing values, and extreme outliers.
+3. **Analysis**:
+   - Analyzed visitor behavior during peak and off-peak times.
+   - Examined the correlation between event participation and visitor satisfaction.
+4. **Visualization**: Built interactive dashboards showing visitor trends, peak times, and event attendance.
+
+## Results
+- Visitor count increased by 30% during the summer months, peaking at major public events.
+- Event participation was positively correlated with visitor satisfaction scores.
+
+## Conclusion
+Insights were used to optimize event scheduling, improve visitor facilities, and ensure appropriate staffing during peak periods.
