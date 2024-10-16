@@ -1,0 +1,21 @@
+# Conservation Reporting Automation
+
+## Objective
+This project aimed to automate the generation of weekly conservation reports, reducing manual work and ensuring timely insights for park managers.
+
+## Skills Used
+- Python: pandas, smtplib for email automation
+- SQL
+- Data visualization: Tableau / Power BI
+
+## Methodology
+1. **Data Collection**: Pulled data from sensor networks and databases to track conservation metrics (e.g., air quality, wildlife sightings).
+2. **Automation**: Built Python scripts to generate reports and email them to stakeholders on a weekly basis.
+3. **Visualization**: Integrated interactive dashboards into the reports to showcase conservation progress.
+
+## Results
+- The automated reporting system reduced time spent on report generation by 50%.
+- Park managers received accurate and timely insights on key conservation metrics.
+
+## Conclusion
+Automation improved the efficiency of the reporting process and allowed park managers to make faster, data-driven decisions regarding conservation efforts.
