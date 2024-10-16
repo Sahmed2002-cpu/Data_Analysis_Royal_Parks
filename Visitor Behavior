@@ -1,0 +1,22 @@
+# Visitor Behavior Analysis
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Sample Data (replace with actual visitor data)
+data = {
+    'month': ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+    'visitor_count': [15000, 17000, 19000, 22000, 25000, 27000, 30000, 32000, 29000, 24000, 20000, 18000]
+}
+
+df = pd.DataFrame(data)
+
+# Bar Plot for Visitor Trends
+plt.figure(figsize=(12, 6))
+sns.barplot(x='month', y='visitor_count', data=df, palette='Blues_d')
+plt.title('Monthly Visitor Count (Sample Data)')
+plt.xlabel('Month')
+plt.ylabel('Visitor Count')
+plt.xticks(rotation=45)
+plt.show()
