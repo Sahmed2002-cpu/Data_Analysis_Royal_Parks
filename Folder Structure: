@@ -1,0 +1,20 @@
+Data_Analysis_Royal_Parks/
+│
+├── Environmental_Data_Analysis/
+│   ├── README.md
+│   ├── environmental_data_analysis.ipynb
+│   ├── visualizations/
+│       ├── air_quality_trends.png
+│       ├── biodiversity_metrics.png
+│
+├── Visitor_Behavior_Analytics/
+│   ├── README.md
+│   ├── visitor_behavior_analysis.ipynb
+│   ├── visualizations/
+│       ├── visitor_trends_dashboard.png
+│
+└── Conservation_Reporting_Automation/
+    ├── README.md
+    ├── conservation_reporting_pipeline.ipynb
+    ├── visualizations/
+        ├── automated_report_example.png
