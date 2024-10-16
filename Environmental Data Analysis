@@ -1,0 +1,27 @@
+# Environmental Data Analysis
+
+## Objective
+The project involved analyzing ecological data within The Royal Parks, focusing on trends in air quality, biodiversity, and green space health. This data was crucial for decision-making on park conservation strategies and sustainability initiatives.
+
+## Skills Used
+- Python: pandas, numpy, matplotlib, seaborn
+- SQL
+- Tableau / Power BI for interactive data visualization
+
+## Dataset
+- Data on air quality, biodiversity surveys, and ecological health metrics collected from various sensors and surveys within The Royal Parks.
+
+## Methodology
+1. **Data Collection**: Collected air quality readings, biodiversity counts, and green space health metrics from sensors and manual surveys.
+2. **Data Cleaning**: Cleaned and normalized sensor data, removed outliers, and handled missing data.
+3. **Analysis**:
+   - Analyzed the impact of seasonal changes on biodiversity and air quality.
+   - Identified trends in air pollution across different regions of the parks.
+4. **Visualization**: Created interactive dashboards showcasing air quality trends and biodiversity metrics.
+
+## Results
+- Identified an increase in biodiversity in reforested areas over the last 5 years.
+- Air quality analysis showed a consistent improvement during low-traffic periods, which influenced policies to restrict vehicle access in certain zones.
+  
+## Conclusion
+The insights led to more focused conservation efforts, particularly in areas with improving biodiversity and declining air quality. The findings also supported sustainability programs for park visitors.
